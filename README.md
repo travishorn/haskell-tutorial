@@ -1,6 +1,6 @@
 # Haskell Tutorial
 
-A collection of snippets that follow a video titled
+A collection of snippets that follow the video
 [Haskell Tutorial](https://youtube.com/watch?v=02_H3LjqMr8) by Derek Banas.
 
 It is a 1.25 hour video where Derek acts as an instructor, teaching you the
